@@ -1,0 +1,7 @@
+{
+  "name"          :  "Sandbox",
+  "dependencies"  :  {
+    "jquery"      :  "~1.9.1",
+    "sinon"       :  "~1.6.0"
+  }
+}
