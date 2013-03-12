@@ -21,6 +21,7 @@
     "afterEach"  : false,
     "expect"     : false,
     "spyOn"      : false,
-    "jQuery"     : false
+    "jQuery"     : false,
+    "alert"      : false
   }
 }
